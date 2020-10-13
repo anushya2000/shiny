@@ -31,4 +31,4 @@
 3. It is hosted on github or Rpubs
 4. It contains some embedded R code that gets run when slidifying the document
 
-For details about the app, use the link file:///A:/R/peer%20graded%20assignments/shiny/pitch-presentation.html#/
+For details about the app, use the link:   file:///A:/R/peer%20graded%20assignments/shiny/pitch-presentation.html#/
