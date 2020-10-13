@@ -1,13 +1,13 @@
 # shiny app - SUMMARY AND OBSERVATIONS
 
-Shiny Application:
+## Shiny Application: ##
 
 1. Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
 2. Deploy the application on Rstudio's shiny server
 3. Share the application link by pasting it into the provided text box
 4. Share your server.R and ui.R code on github
 
-The application must include the following:
+**The application must include the following: **
 
 1. Some form of input (widget: textbox, radio button, checkbox, ...)
 2. Some operation on the ui input in sever.R
@@ -16,15 +16,15 @@ The application must include the following:
 5. The documentation should be at the Shiny website itself. Do not post to an external link.
 
 
-Reproducible Pitch Presentation:
+## Reproducible Pitch Presentation: ##
 
-The pitch presentation includes:
+**The pitch presentation includes:**
 
 1. 5 slides to pitch our idea done in Slidify or Rstudio Presenter
 2. The presentation pushed to github or Rpubs
 3. A link to your github or Rpubs presentation pasted into the provided text box
 
-The presentation satisfies following:
+**The presentation satisfies following:**
 
 1. It is done in Slidify or Rstudio Presenter
 2. It has 5 pages
